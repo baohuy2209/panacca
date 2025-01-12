@@ -5,15 +5,15 @@ const list_menu = [
   },
   {
     title: "Phòng chơi",
-    url: "/game",
+    url: "/game-room",
   },
   {
     title: "Đặt phòng",
-    url: "/book_room",
+    url: "/book-room",
   },
   {
     title: "Bảng giá",
-    url: "/table_price",
+    url: "/table-price",
   },
   {
     title: "Liên hệ",
